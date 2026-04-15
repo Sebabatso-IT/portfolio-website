@@ -27,7 +27,7 @@ This is my personal IT portfolio website where I showcase my skills, experience 
 
 ## Contact
 
-Email: [sebabatsomofokeng@gmail.com](mailto:sebabatsomofokeng@gmail.com)
+Email: [sebabatsodmofokeng@gmail.com](mailto:sebabatsodmofokeng@gmail.com)
 
 
 
