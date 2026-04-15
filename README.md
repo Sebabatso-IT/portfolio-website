@@ -2,7 +2,7 @@
 This is my Personal IT Portfolio Website.
 
 ## About Me
-An Information Technology Proffesssional with experience in:
+An Information Technology Professional with experience in:
 - School administration (SASAMS)
 - ICT support and troubleshooting
 - Cybersecurity 
