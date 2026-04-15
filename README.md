@@ -2,9 +2,10 @@
 This is my Personal IT Portfolio Website.
 
 ## About Me
-I am a final-year Information Technology student with experience in:
+An Information Technology Proffesssional with experience in:
 - School administration (SASAMS)
 - ICT support and troubleshooting
+- Cybersecurity 
 - Microsoft Office and Excel
 - Social media management
 
