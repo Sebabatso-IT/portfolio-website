@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 ## 📷 Preview
-![Portfolio Screenshot](Screenshot 2026-04-15 153442)
+![Portfolio Screenshot](Screenshot 2026-04-15 153442.png)
 
 **Live Website:** https://sebabatso-it.github.io/portfolio-website/
 
