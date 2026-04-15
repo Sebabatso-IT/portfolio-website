@@ -1,20 +1,33 @@
-# portfolio-website
-This is my Personal IT Portfolio Website.
+# Personal Portfolio Website
 
-## About Me
-An Information Technology Professional with experience in:
-- School administration (SASAMS)
-- ICT support and troubleshooting
-- Cybersecurity 
-- Microsoft Office and Excel
-- Social media management
+**Live Website:** https://sebabatso-it.github.io/portfolio-website/
+
+## About
+
+This is my personal IT portfolio website where I showcase my skills, experience, and projects.
+
+## Skills
+
+* ICT Support & Troubleshooting
+* Cybersecurity Basics
+* Microsoft Office
+* Social Media Management
+
+## Technologies Used
+
+* HTML
+* CSS
+* GitHub Pages
 
 ## Projects
-- Portfolio Website (in progress)
-- School Administration System (planned)
-- IT Support Ticket System (planned)
+
+* Portfolio Website (this project)
+* School Administration System (planned)
+* IT Support Ticket System (planned)
 
 ## Contact
-Email: sebabatsodmofokeng@gmail.com
+
+Email: [sebabatsomofokeng@gmail.com](mailto:sebabatsomofokeng@gmail.com)
+
 
 
