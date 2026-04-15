@@ -4,7 +4,7 @@
 
 ## About
 
-This is my personal IT portfolio website where I showcase my skills, experience, and projects.
+This is my personal IT portfolio website where I showcase my skills, experience and projects.
 
 ## Skills
 
